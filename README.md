@@ -1,4 +1,4 @@
-# THP_S04_Jeudi_Dogbnb
+# THP_S04_Jeudi_The_GossipProject
 
 
 Il y a une DB existante dans le dossier /db pour faciliter les corrections.
